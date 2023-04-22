@@ -903,6 +903,9 @@ mostly you have to check your automations if the [service](#overview-of-default-
 |show_screen|screen_time|
 |time|time_component|
 |html|icons2html|
+|dayofweek|show_dow|
+|anim_intervall|frame_interval|
+|scroll_intervall|scroll_interval|
 
 ---
 
